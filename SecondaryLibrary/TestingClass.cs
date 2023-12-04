@@ -4,7 +4,11 @@
     {
         public static void Test()
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, test 1!");
+        }
+        public static void Test2()
+        {
+            Console.WriteLine("Hello, test 2!");
         }
     }
 }
