@@ -1,4 +1,6 @@
-﻿namespace GitLesson2
+﻿using SecondaryLibrary;
+
+namespace GitLesson2
 {
     internal class Program
     {
@@ -19,6 +21,8 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+
+            TestingClass.Test();
         }
     }
 }
