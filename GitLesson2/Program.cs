@@ -27,6 +27,7 @@ namespace GitLesson2
             TestingClass.Test2();
             TestingClass.Test2();
             TestingClass.Test2();
+            TestingClass.Test2();
         }
     }
 }
