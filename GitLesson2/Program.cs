@@ -21,6 +21,8 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
 
             TestingClass.Test();
             TestingClass.Test2();
