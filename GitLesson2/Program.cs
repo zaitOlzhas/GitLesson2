@@ -19,7 +19,7 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             //ВЫполнение задания GIT
-
+            Console.WriteLine("Выполнил Исаков Алексей");
 
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
