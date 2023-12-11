@@ -6,6 +6,7 @@ namespace GitLesson2
     {
         static void Main(string[] args)
         {
+            // Why whould you print one thing over and over?
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
@@ -18,8 +19,8 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+            //dauletkassymov
 
-
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
@@ -28,13 +29,14 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-
             Console.WriteLine("Hello by TimurNaskenov");
-
+            Console.WriteLine("Hello from Askhat!!!");
             TestingClass.Test();
             TestingClass.Test2();
             TestingClass.Test2();
-          
+          //Nauryzbeksalimgereyev
+
+            //Nauryzbek..
         }
     }
 }
