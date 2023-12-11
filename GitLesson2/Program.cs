@@ -18,6 +18,7 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+            //dauletkassymov
 
 
             Console.WriteLine("Hello, World!");
