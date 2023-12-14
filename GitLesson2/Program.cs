@@ -10,6 +10,9 @@ namespace GitLesson2
             Console.ReadLine();
             Console.ReadLine();
             Console.ReadLine();
+            //Тестовый комментарий//Тестовый комментарий
+            //Тестовый комментарий
+            //Тестовый комментарий
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
@@ -22,6 +25,10 @@ namespace GitLesson2
             Console.ReadLine();
             Console.ReadLine();
             Console.ReadLine();
+            //Тестовый комментарий
+            //Тестовый комментарий
+            //Тестовый комментарий
+            //Тестовый комментарий
             //ВЫполнение задания GIT
             Console.WriteLine("Выполнил Исаков Алексей");
 
