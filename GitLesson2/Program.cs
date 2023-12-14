@@ -34,12 +34,16 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello by TimurNaskenov");
             Console.WriteLine("Hello from Askhat!!!");
+            Console.WriteLine("Hello by Yernur");
             TestingClass.Test();
             TestingClass.Test2();
             TestingClass.Test2();
           //Nauryzbeksalimgereyev
 
             //Nauryzbek..
+
+            //yernur
+
         }
     }
 }
