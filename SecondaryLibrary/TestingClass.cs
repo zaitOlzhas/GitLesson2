@@ -9,6 +9,7 @@
         public static void Test2()
         {
             Console.WriteLine("Hello, test 2!");
+            Console.WriteLine("Hello, test 2!");
         }
     }
 }
