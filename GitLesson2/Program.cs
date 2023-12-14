@@ -7,6 +7,9 @@ namespace GitLesson2
         static void Main(string[] args)
         {
             // Why whould you print one thing over and over?
+            //Тестовый комментарий//Тестовый комментарий
+            //Тестовый комментарий
+            //Тестовый комментарий
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
@@ -16,10 +19,10 @@ namespace GitLesson2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-
+            //Тестовый комментарий
+            //Тестовый комментарий
+            //Тестовый комментарий
+            //Тестовый комментарий
             //ВЫполнение задания GIT
             Console.WriteLine("Выполнил Исаков Алексей");
 
