@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLesson2", "GitLesson2\GitLesson2.csproj", "{DF0BB483-59B6-46CF-98DE-5B580D5D6270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitLesson2", "GitLesson2\GitLesson2.csproj", "{DF0BB483-59B6-46CF-98DE-5B580D5D6270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondaryLibrary", "SecondaryLibrary\SecondaryLibrary.csproj", "{B8D41FF5-1F7F-488B-943F-A62D2C9BE5B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondaryLibrary", "SecondaryLibrary\SecondaryLibrary.csproj", "{B8D41FF5-1F7F-488B-943F-A62D2C9BE5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLib", "TestLib\TestLib.csproj", "{D173F2C9-DE1D-4F19-9E56-CFDD1CCA6B85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B8D41FF5-1F7F-488B-943F-A62D2C9BE5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D41FF5-1F7F-488B-943F-A62D2C9BE5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D41FF5-1F7F-488B-943F-A62D2C9BE5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D173F2C9-DE1D-4F19-9E56-CFDD1CCA6B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D173F2C9-DE1D-4F19-9E56-CFDD1CCA6B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D173F2C9-DE1D-4F19-9E56-CFDD1CCA6B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D173F2C9-DE1D-4F19-9E56-CFDD1CCA6B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
