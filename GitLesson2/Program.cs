@@ -39,6 +39,7 @@ namespace GitLesson2
             Console.WriteLine("Hello from Askhat!!!");
             Console.WriteLine("Hello to all students from Daulet");
             TestingClass.Test();
+            TestingClass.Test();
             TestingClass.Test2();
             TestingClass.Test2();
           //Nauryzbeksalimgereyev
